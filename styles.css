@@ -9,6 +9,8 @@ body {
   margin: 0;
   padding: 0;
   height: 80vh;
+  background: linear-gradient(to bottom, #f7f7f7, #c2c592);
+  height: 100vh;
 }
 
 .game-container {
